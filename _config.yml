@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mirestrepo.github.io
+title: isa
+tagline: mostly julia
+description: A blog for adventures related to my code hosted on github
+paginate: 5
